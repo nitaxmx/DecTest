@@ -1,10 +1,19 @@
 # Table of contents
 
-## Para desarrolladores
+* [Bienvenidos](README.md)
 
-* [Ambiente de programacion](README.md)
-* [El contrato](para-desarrolladores/el-contrato.md)
+## Sobre Bloinx
+
+* [Que es Bloinx?](sobre-bloinx/que-es-bloinx.md)
+* [Reglas](sobre-bloinx/reglas.md)
 
 ## Para usuarios
 
-* [Instala Metamask](para-usuarios/instala-metamask.md)
+* [Antes de empezar](para-usuarios/antes-de-empezar.md)
+* [Instala tu wallet](para-usuarios/instala-tu-wallet.md)
+
+## Para desarrolladores
+
+* [Contrato de la ronda](para-desarrolladores/contrato-de-la-ronda/README.md)
+  * [Etapas](para-desarrolladores/contrato-de-la-ronda/etapas.md)
+* [Ambiente de programación](para-desarrolladores/ambiente-de-programacion.md)
